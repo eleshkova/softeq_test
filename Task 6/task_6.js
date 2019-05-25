@@ -1,0 +1,1 @@
+const regExp = /Softeq.*#rules|#rules.*Softeq/;
